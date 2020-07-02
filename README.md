@@ -9,6 +9,7 @@ This package contains the following files/folder:
 - **7za.exe**: will uploaded to the client machine to be used to decompress the task .zip file, also compress the task folder to be downloaded
 - **RUN_manager.bat**: check and control the task process status (running, timeout, fininshed)
 - **Tasks_Manager.py**: python script to utilize the CarbonBlack API to manage the tasks and the client machines (upload plugin, run the process on client, download results, etc.)
+- **targeted_machines.txt**: list of targeted machines, if you want to skip some machines use "#"
 
 
 # Usage
