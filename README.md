@@ -1,6 +1,6 @@
 # CB_TaskManager
 
-CarbonBlack Task Manager tool to run and manage tasks on the sensors (endpoints) and collect output results, for example you could run Loki scanner on all sendors and get the results simply by using the tool
+CarbonBlack Task Manager tool to run and manage tasks on the sensors (endpoints) and collect output results, for example you could run Loki scanner on all sensors and get the results simply by using the tool
 
 # Componenets
 
